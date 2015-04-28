@@ -19,6 +19,7 @@ void calculator_operations();
 int main()
 {
     int X=1;
+    int Y=2;
     char Calc_oprn;
 
     // Function call 
